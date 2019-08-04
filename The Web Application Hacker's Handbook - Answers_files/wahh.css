@@ -1,0 +1,61 @@
+﻿#TopBanner {
+	background: #303030 url("/web/20151101020638im_/http://mdsec.net/wahh/wahh.png") no-repeat;
+}
+#TopBanner ul li a:hover {
+	background-color: #41C8F4;
+}
+#NavBar ul li a:hover {
+	color: #41C8F4;
+}
+h2 {
+	color: #075D79;
+}
+a:hover {
+	color: #41C8F4;
+}
+.GreyBox a:hover {
+	color: #075D79;
+}
+.GreyBox li ul {
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+.GreyBox li li {
+	margin-left: -20px;
+}
+input.IndentCheck {
+	margin-left: 30px;
+}
+ul.Flags {
+	margin: 0;
+	padding: 0;
+}
+ul.Flags li {
+	display: inline;
+	margin: 0 15px 0 0;
+	padding: 0;
+}
+ul.Flags img {
+	border: 1px black solid;
+}
+/*
+     FILE ARCHIVED ON 02:06:38 Nov 01, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:47:46 Aug 03, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 125.679 (3)
+  esindex: 0.01
+  captures_list: 140.912
+  CDXLines.iter: 9.091 (3)
+  PetaboxLoader3.datanode: 511.147 (5)
+  exclusion.robots: 0.265
+  exclusion.robots.policy: 0.248
+  RedisCDXSource: 1.991
+  PetaboxLoader3.resolve: 324.023 (2)
+  load_resource: 751.694
+*/
